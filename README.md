@@ -5,6 +5,7 @@
 **作者**: 泥人传说  
 **作者主页**: https://nirenchuanshuo.com  
 **项目地址**: https://github.com/cyberxsboy/WP-Cloudflare-Static-Push
+**插件下载地址**：https://github.com/cyberxsboy/WP-Cloudflare-Static-Push/releases/download/1.0/wp-cloudflare-static-push.zip
 
 ## 核心功能
 
@@ -233,3 +234,4 @@ GPL v2 or later
 
 感谢 Cloudflare 提供强大的边缘计算平台。
 感谢 WordPress 社区的支持。
+
