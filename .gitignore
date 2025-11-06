@@ -1,0 +1,58 @@
+# WordPress 插件 .gitignore
+# 
+# @author 泥人传说
+# @link https://github.com/cyberxsboy/WP-Cloudflare-Static-Push
+
+# IDE 和编辑器
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Node.js (如果将来需要构建工具)
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# PHP
+composer.phar
+/vendor/
+composer.lock
+
+# WordPress
+wp-config.php
+.htaccess
+
+# 临时文件
+*.log
+*.tmp
+*.temp
+.cache/
+
+# 构建文件
+/build/
+/dist/
+
+# 测试
+/tests/
+phpunit.xml
+.phpunit.result.cache
+
+# 环境变量
+.env
+.env.local
+.env.*.local
+
+# 备份文件
+*.bak
+*.backup
+*~
+
+# 压缩文件
+*.zip
+*.tar.gz
+*.rar
